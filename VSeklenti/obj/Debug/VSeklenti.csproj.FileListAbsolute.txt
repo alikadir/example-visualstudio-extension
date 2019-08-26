@@ -1,0 +1,14 @@
+D:\EMSEY\AKBframework\VSeklenti\bin\Debug\VSeklenti.dll
+D:\EMSEY\AKBframework\VSeklenti\bin\Debug\VSeklenti.pdb
+D:\EMSEY\AKBframework\VSeklenti\bin\Debug\VSeklenti.xml
+D:\EMSEY\AKBframework\VSeklenti\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\AKBframework\VSeklenti\obj\Debug\VSeklenti.csproj.ResolveComReference.cache
+D:\EMSEY\AKBframework\VSeklenti\obj\Debug\VSeklenti.dll
+D:\EMSEY\AKBframework\VSeklenti\obj\Debug\VSeklenti.pdb
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\bin\Debug\VSeklenti.dll
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\bin\Debug\VSeklenti.pdb
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\bin\Debug\VSeklenti.xml
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\obj\Debug\VSeklenti.csproj.ResolveComReference.cache
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\obj\Debug\VSeklenti.dll
+D:\PROJELERIM\PROJELER\AKBframework\VSeklenti\obj\Debug\VSeklenti.pdb
